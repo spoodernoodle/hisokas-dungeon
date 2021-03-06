@@ -1,3 +1,13 @@
-quotes.html {
-    background-color: black;
+html {
+    background: rgb(0, 0, 0);
+    color: cornsilk;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(99, 87, 179);
+}
+
+p {
+    text-align: center;
 }
