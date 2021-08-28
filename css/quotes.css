@@ -13,8 +13,8 @@ p {
 }
 
 img {
-    margin-right: 10px;
-    float: left;
-    height: 200px;
-    border-right-style: solid;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
 }
